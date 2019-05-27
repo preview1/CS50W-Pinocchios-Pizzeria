@@ -14,3 +14,5 @@ Viewing Orders: Site administrators should have access to a page where they can 
 
 
 User can do all what's required. Admin can see and add/change all items trough admin portal. Additionaly shopping cart content is saved in a session, so it's there after page refresh.
+
+PREVIEW VIDEO: https://youtu.be/OJsOjhKRcKc
